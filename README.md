@@ -8,7 +8,7 @@ We decided to use [Monèt dataset](https://www.kaggle.com/competitions/gan-getti
 we have 300 Monet style image and 7028 photos in our dataset and they are all in 256x256 format. We may need to extract the style patten from Monet image and convert the style onto the photo we have. 
 
 ## Approach
-This project was conducted with three different approach.
+This project was conducted with three different approach. notebook of different approach is also could be seen in this repo.
 - Neural Style Transfer
 - CycleGAN
 - Style-ALAE
